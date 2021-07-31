@@ -1,8 +1,8 @@
 ### Olá, Sou o Raphael Rychard
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaelrychard&show_icons=true&theme=bear" height = 170em>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=raphaelrychard&theme=dark&hide_border=true" height= 170em>
+  <img height = 160em src="https://github-readme-stats.vercel.app/api?username=raphaelrychard&show_icons=true&theme=bear">
+  <img height = 160em src = "https://github-readme-streak-stats.herokuapp.com?user=raphaelrychard&theme=dark&hide_border=true" >
 </div>
 
 <div>
