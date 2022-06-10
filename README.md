@@ -15,10 +15,10 @@
 </section>
 
 
-<img height=380em align=right src="https://user-images.githubusercontent.com/67989564/172969445-bd8accaf-ba7d-42d2-b47d-a62d1cb3bf49.png" alt="Raphael Ryhcard">
+<img height=340em align=right src="https://user-images.githubusercontent.com/67989564/172969445-bd8accaf-ba7d-42d2-b47d-a62d1cb3bf49.png" alt="Raphael Ryhcard">
 
-<img width=420em src="https://github-readme-stats.vercel.app/api?username=raphaelrychard&show_icons=true&theme=buefy"> 
-<img width=420em src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"> 
+<img width=360em src="https://github-readme-stats.vercel.app/api?username=raphaelrychard&show_icons=true&theme=buefy"> 
+<img width=360em src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy"> 
 	
 <section align=right>
 	
