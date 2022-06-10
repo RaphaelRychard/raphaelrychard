@@ -5,6 +5,8 @@
 
 </section>
 
+<br>
+<br>
 <section align=right>
 		
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.linkedin.com/in/raphaelrychard)
@@ -13,11 +15,11 @@
 	
 </section>
 
-
 <section>		
 <img height=340em align=right src="https://user-images.githubusercontent.com/67989564/172969445-bd8accaf-ba7d-42d2-b47d-a62d1cb3bf49.png" alt="Raphael Ryhcard">
 </section>
 
+<br>
 <section>	
 <img width=360em src="https://github-readme-stats.vercel.app/api?username=raphaelrychard&show_icons=true&theme=buefy"> 
 <img width=360em src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy"> 
