@@ -12,8 +12,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raphrych/)
 </section>
 
-<section>	
-<img height=360em align=right  src="https://user-images.githubusercontent.com/67989564/172969445-bd8accaf-ba7d-42d2-b47d-a62d1cb3bf49.png" alt="Raphael Ryhcard">
+<section><br>
+<img height=330em align=right src="https://user-images.githubusercontent.com/67989564/172969445-bd8accaf-ba7d-42d2-b47d-a62d1cb3bf49.png" alt="Raphael Ryhcard">
 </section>
 
 
