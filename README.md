@@ -17,7 +17,7 @@
 </section>
 
 
-<section style="display: inline_block" align=lefth><br>
+<section align=lefth><br>
 	
 <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=raphaelrychard&show_icons=true&theme=buefy"> 
 <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy"> 
