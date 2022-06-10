@@ -40,6 +40,6 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">	
 </div>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![github-user-contribution](https://user-images.githubusercontent.com/67989564/172982009-ae68fb42-c7b6-4b4b-87d1-bdef5a1f7712.svg)
 	
 </div>
