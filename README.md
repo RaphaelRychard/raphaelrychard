@@ -5,11 +5,6 @@
 ### Olá! Eu sou Raphael Rychard 👋🏻
 </section>
 
-<div style="display: inline_block" align=center><br>
-  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white )](https://t.me/RaphaelRychard)
-[![Telegram](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5565984524722)
-</div>
 	
 <section style="display: inline_block" align=center><br>
 		
